@@ -1,4 +1,6 @@
-Hi ! Thanks for accessing my files. This document contains a bunch of information and explanation of how my code works. Please take the time to read over the NECESSARY PACKAGES & ITEMS and the ABOUT THE CODE sections. If you come across specific questions when running, please take a look at THE DETAILS section in case your questions has already been addressed there. Thanks !
+Hi ! Thanks for accessing my files. This document contains a bunch of information and explanation of how my code works. 
+Please take the time to read over the NECESSARY PACKAGES & ITEMS and the ABOUT THE CODE sections. 
+If you come across specific questions when running, please take a look at THE DETAILS section in case your questions has already been addressed there. Thanks !
 
 ——————————————————————————————————————————————————
 
@@ -8,7 +10,7 @@ Import pandas before running this code.
 The following files must be on your device for running my code:
 - CarnegieMatchingFunctions.py: This file contains all of the primary functions of this module.
 - CarnegieClassification_Data.csv: This spreadsheet contains data from the Carnegie Classification of Institutions of Higher Education on US-based universities.
-- Exceptions_3-22_3.csv: This spreadsheet contains data on institutions names that are not included in CarnegieClassification_Data.csv.
+- Exceptions_3-22_3.csv (or most updated one): This spreadsheet contains data on institutions names that are not included in CarnegieClassification_Data.csv or that are similar (mispellings or slight different names).
 
 ——————————————————————————————————————————————————
 
