@@ -1,6 +1,8 @@
 Hi ! Thanks for accessing my files. This document contains a bunch of information and explanation of how my code works. 
 Please take the time to read over the NECESSARY PACKAGES & ITEMS and the ABOUT THE CODE sections. 
-If you come across specific questions when running, please take a look at THE DETAILS section in case your questions has already been addressed there. Thanks !
+If you come across specific questions when running, please take a look at THE DETAILS section in case your questions has already been addressed there. Thanks!
+
+Author: Máire Volz.
 
 ——————————————————————————————————————————————————
 
